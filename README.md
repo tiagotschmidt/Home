@@ -10,10 +10,10 @@ Porto Alegre, RS.
 
 ## Interests
 
--Dart;
--Python (nn, ml, math);
--C;
--Java;
+- Dart;
+- Python (nn, ml, math);
+- C;
+- Java;
 
 ## Recent Projects
 
